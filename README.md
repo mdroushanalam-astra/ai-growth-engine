@@ -1,4 +1,4 @@
-# AI Growth Engine — Interactive Pitch Platform & Vector PDF Synthesizer 🚀📊
+# AI Growth Engine:  Interactive Pitch Platform & Vector PDF Synthesizer 🚀📊
 
 <div align="center">
 
